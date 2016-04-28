@@ -1,0 +1,10 @@
+1-Gradle
+    Download Gradle from http://gradle.org/gradle-download/
+    Install Gradle
+    Include Gradle in the system environment path
+    run gradle -v in the command prompt to check if gradle was intall.
+Check https://examples.javacodegeeks.com/core-java/gradle/gradle-hello-world-tutorial/ for directions if lost.
+
+2-
+
+
