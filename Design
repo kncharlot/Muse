@@ -1,0 +1,38 @@
+
+Muse.org is a web application that features a searchable repertoire of songs written from book, chapters, sections and verses from the bible.
+Songs will be cataloged by theme, verse, book, chapter, verse and author/writer. 
+
+Home Page:
+On the home page, the visitor is displayed a curated featured song. The lyrics, author's information will also be displayed.
+The audio widget of the song will be attached so the user can listen a long with the lyrics. 
+The song will be either attached from soundcloud or from http://scmplayer.net/
+A search box will be presented so that the visitor can search the catalog for the songs and ideas that he or she came for.
+
+A list of results will be presented to the visitor when the search is submitted.
+Such list will be sortable by relevance. 
+Each item in the list will be clickable, leading to the song's page or the author's page.
+On each song's page or author's page there will be a return button at the bottom to always allow the user to come back to the main page.
+The search button will also be there so the visitor can continue the search.
+
+
+Song Page:
+The song page will be a page with the lyrics  of each song in the main display. 
+The player of the audio will be on top and at the bottom, download options for the track or the chord charts.
+A link to the author's page.
+
+Author's Page:
+The author's page will be a bio of the author or the story of how the song came to be.
+
+Book Page:
+Thumbnails of catalog of songs by chapter. Clickable leading to chapter page.
+
+
+Chapter Page:
+List of clickable links of each song with maybe a featured song.
+
+
+MySQL database
+Java objects
+Spring mvc
+Gradel 
+Hibernate
