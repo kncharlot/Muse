@@ -1,6 +1,0 @@
-muse\entities\Muse_Song.class
-muse\entities\Muse_User.class
-muse\dao\Muse_User_Dao.class
-muse\dao\Muse_Song_Dao.class
-muse\dao\Muse_Song_Writer_Dao.class
-muse\entities\Muse_Song_Writer.class
